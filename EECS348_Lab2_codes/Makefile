@@ -1,5 +1,5 @@
 
-CC= g++
+CC= gcc
 
 CFLAGS= -c -Wall
 
